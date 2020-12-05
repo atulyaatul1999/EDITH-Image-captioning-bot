@@ -12,3 +12,5 @@ keras,os,numpy,re,pandas,matplotlib,
 
 
 Dataset link - https://www.kaggle.com/shadabhussain/flickr8k
+
+Kaggle Notebook link -https://www.kaggle.com/atulyaatul1999/image-captioning-simplest-approach
